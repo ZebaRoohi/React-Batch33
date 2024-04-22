@@ -1,0 +1,18 @@
+[
+    {
+        "heading":"Taj mahal",
+        "details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+        "imagePath":"/images/tajmahal.jpg"
+     },
+     {
+        "heading":"Effiel Tower",
+        "details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+        "imagePath":"/images/effieltower.jpg"
+     },
+     {
+        "heading":"Statue of Liberty",
+        "details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+        "imagePath":"/images/statueofliberty.jpg"
+     }
+
+]
