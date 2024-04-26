@@ -11,6 +11,7 @@ const UseRefExample2 = () => {
     }
     const handleSubmit=()=>{
         refEle.current.select()
+       
     }
     const Increment=()=>{
         setValue(value+1)
@@ -25,6 +26,7 @@ const UseRefExample2 = () => {
       <p>Current Value={value}</p>
       <p>Previous Value={refEle.current}</p>
       <button onClick={Increment}>Increment</button>
+     
     </div>
   )
 }
