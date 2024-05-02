@@ -1,0 +1,14 @@
+.nav-bar{
+  background-color: aqua;
+  padding: 10px;
+}
+.nav-item{
+  list-style: none;
+  display: flex;
+}
+.nav-list{
+  margin-right: 50px;
+}
+.link-list{
+  text-decoration: none;
+}
