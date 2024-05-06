@@ -1,6 +1,7 @@
 
 import './App.css'
-import MainNavbar from './components/NavbarMui/MainNavbar'
+import Main from './components/rolebaseauthentication/Main'
+// import MainNavbar from './components/NavbarMui/MainNavbar'
 //import MainLocation from './components/useLocation/MainLocation'
 
 function App() {
@@ -9,7 +10,8 @@ function App() {
   return (
     <>
     {/* <MainLocation /> */}
-    <MainNavbar />
+    {/* <MainNavbar /> */}
+    <Main />
     </>
   )
 }
